@@ -1921,7 +1921,7 @@ footer {
   }
 }
 
-@media (max-width: 370px) {
+@media (max-width: 385px) {
   header {
     height: 1750px !important;
     padding: 11px 20px !important;
